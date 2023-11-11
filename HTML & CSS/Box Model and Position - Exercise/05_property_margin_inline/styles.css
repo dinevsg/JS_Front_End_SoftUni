@@ -1,0 +1,9 @@
+div {
+  border: 1px solid black;
+}
+
+p {
+  font-weight: bold;
+  background-color: blue;
+  margin-inline: 30%;
+}
